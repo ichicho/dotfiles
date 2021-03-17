@@ -17,7 +17,6 @@ set wildmenu " Command-line completion
 
 " => Indent
 filetype plugin indent on " Enable file type based indentation
-let b:did_ftplugin = 1 " Enable file type based plugin
 
 " => Fold
 set foldmethod=indent " Enable folding
